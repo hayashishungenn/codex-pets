@@ -1,6 +1,6 @@
 *.md text eol=lf
 catalog.json text eol=lf
-pets/**/pet.json -text
+pets/**/pet.json -text whitespace=cr-at-eol
 *.webp binary
 *.png binary
 *.gif binary
