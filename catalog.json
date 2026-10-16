@@ -1,0 +1,100 @@
+[
+  {
+    "id": "ayumu-uehara",
+    "name": "上原步梦",
+    "spriteVersionNumber": 2,
+    "size": [
+      1536,
+      2288
+    ],
+    "sha256": {
+      "pet.json": "2fdf90a7a0d0ed7da76890fd6e77eb7c6a5c2e7e829fb4b4868077cb0d07bc15",
+      "spritesheet.webp": "913d6375a7f76d934b282d92b543f3a5ab315605d2ee30a5871bf8b3a8da69cd"
+    },
+    "package": "packages/ayumu-uehara.zip"
+  },
+  {
+    "id": "feibi",
+    "name": "菲比",
+    "spriteVersionNumber": 2,
+    "size": [
+      1536,
+      2288
+    ],
+    "sha256": {
+      "pet.json": "c850a518d4d0cfdbd4ecff2e142012f5eff801a03d63f6a74199f4852861bfdb",
+      "spritesheet.webp": "86add94d722422e930a24b5584cf15cfedfa6a03d7dca924c7a3a0120999556d"
+    },
+    "package": "packages/feibi.zip"
+  },
+  {
+    "id": "gaomon",
+    "name": "加奥兽",
+    "spriteVersionNumber": 2,
+    "size": [
+      1536,
+      2288
+    ],
+    "sha256": {
+      "pet.json": "69dab6f4be7e3a835abb599e037f64575648c7c1d22d40e6b0dfb16262138365",
+      "spritesheet.webp": "147bac132e68de723194bb76bbf29858678c33ea6231d551970e4c0714ee4dfe"
+    },
+    "package": "packages/gaomon.zip"
+  },
+  {
+    "id": "guga",
+    "name": "咕嘎",
+    "spriteVersionNumber": 2,
+    "size": [
+      1536,
+      2288
+    ],
+    "sha256": {
+      "pet.json": "088718696fef50deadca2940b835fdf231a76ef1161ef44dbc20ffc21797a9cc",
+      "spritesheet.webp": "962b0e64809c6d0c10ad479a388b4745b42743c8c64efbff10888a7cef13e102"
+    },
+    "package": "packages/guga.zip"
+  },
+  {
+    "id": "guilmon",
+    "name": "基尔兽",
+    "spriteVersionNumber": 2,
+    "size": [
+      1536,
+      2288
+    ],
+    "sha256": {
+      "pet.json": "754cc7a67cfcd4f62b6bbf915893e70abac791dcf9d0f51575937a557a220788",
+      "spritesheet.webp": "ecd5a1b50f22e44ca3e0adb88482ec63f9a8ff70f19c7f4db2c43e970f4febf1"
+    },
+    "package": "packages/guilmon.zip"
+  },
+  {
+    "id": "happynailong",
+    "name": "大笑奶龙",
+    "spriteVersionNumber": 1,
+    "size": [
+      1536,
+      1872
+    ],
+    "sha256": {
+      "pet.json": "0baf0e3c860b9f9ca69f41bc6ee62d10c59a74ac5d11174e2ab4e5bf2c1bc6cd",
+      "spritesheet.webp": "795ca7b2dcf382ab8b1e6af2db88533f9351cdda15d36b1b20a0743e535db3c7"
+    },
+    "package": "packages/happynailong.zip"
+  },
+  {
+    "id": "hikawa-sayo",
+    "name": "冰川纱夜",
+    "spriteVersionNumber": 2,
+    "size": [
+      1536,
+      2288
+    ],
+    "sha256": {
+      "pet.json": "ee25b5ac2b78b655da98cb1c4b1164e1f3e57e8b66e6ea621c5df82787801453",
+      "spritesheet.webp": "fca8b2e760dcd7a693e3ba99bee2d1d3be0329389ffb64bf78247781e21460be"
+    },
+    "package": "packages/hikawa-sayo.zip"
+  }
+]

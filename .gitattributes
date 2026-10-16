@@ -1,0 +1,7 @@
+*.md text eol=lf
+catalog.json text eol=lf
+pets/**/pet.json -text
+*.webp binary
+*.png binary
+*.gif binary
+*.zip binary
