@@ -39,7 +39,9 @@
       "pet.json": "69dab6f4be7e3a835abb599e037f64575648c7c1d22d40e6b0dfb16262138365",
       "spritesheet.webp": "147bac132e68de723194bb76bbf29858678c33ea6231d551970e4c0714ee4dfe"
     },
-    "package": "packages/gaomon.zip"
+    "package": "packages/gaomon.zip",
+    "websiteId": "gaomon-anime",
+    "websiteUrl": "https://codex-pets.net/#/pets/gaomon-anime"
   },
   {
     "id": "guga",
@@ -67,7 +69,9 @@
       "pet.json": "754cc7a67cfcd4f62b6bbf915893e70abac791dcf9d0f51575937a557a220788",
       "spritesheet.webp": "ecd5a1b50f22e44ca3e0adb88482ec63f9a8ff70f19c7f4db2c43e970f4febf1"
     },
-    "package": "packages/guilmon.zip"
+    "package": "packages/guilmon.zip",
+    "websiteId": "guilmon-anime",
+    "websiteUrl": "https://codex-pets.net/#/pets/guilmon-anime"
   },
   {
     "id": "happynailong",

@@ -20,4 +20,6 @@
 
 `pets/` 存放可直接安装的文件，`packages/` 存放逐只安装包，`previews/` 存放预览，`catalog.json` 记录版本、尺寸与 SHA-256。基尔兽与加奥兽按已确认的动画形象修正，动作采用数码宝贝自身的身体结构和神态，行走槽不挥手。其他宠物保持本地安装内容。
 
+网站版本使用中文显示名，数码宝贝的网站 ID 统一带 `-anime`：[基尔兽](https://codex-pets.net/#/pets/guilmon-anime)、[加奥兽](https://codex-pets.net/#/pets/gaomon-anime)。本仓库与本地安装目录保留原 ID，避免重复安装。
+
 角色及第三方宠物素材的权利属于各自权利人。本合集不另行授予这些素材的版权许可。
