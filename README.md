@@ -25,3 +25,5 @@
 网站版本使用中文显示名，数码宝贝的网站 ID 统一带 `-anime`：[基尔兽](https://codex-pets.net/#/pets/guilmon-anime)、[加奥兽](https://codex-pets.net/#/pets/gaomon-anime)、[亚古兽（一代）](https://codex-pets.net/#/pets/agumon-adventure-anime)、[亚古兽（五代）](https://codex-pets.net/#/pets/agumon-savers-anime)。本仓库与本地安装目录保留原 ID，避免重复安装。
 
 角色及第三方宠物素材的权利属于各自权利人。本合集不另行授予这些素材的版权许可。
+
+加奥兽与基尔兽的简介依据官方图鉴概括：[加奥兽设定](https://digimon.net/reference_zh-CHS/detail.php?directory_name=gaomon)、[基尔兽设定](https://digimon.net/reference_zh-CHS/detail.php?directory_name=guilmon)。

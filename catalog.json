@@ -36,7 +36,7 @@
       2288
     ],
     "sha256": {
-      "pet.json": "69dab6f4be7e3a835abb599e037f64575648c7c1d22d40e6b0dfb16262138365",
+      "pet.json": "f831fe017defe1c66a4b73ec3969709c92df4b495d9f6b2c37ea02df128552c2",
       "spritesheet.webp": "147bac132e68de723194bb76bbf29858678c33ea6231d551970e4c0714ee4dfe"
     },
     "package": "packages/gaomon.zip",
@@ -66,7 +66,7 @@
       2288
     ],
     "sha256": {
-      "pet.json": "754cc7a67cfcd4f62b6bbf915893e70abac791dcf9d0f51575937a557a220788",
+      "pet.json": "88170dd07fdfd41de4376a4e53ebda4c2a136b5dcf4cc0ec4bb04b894cbffb6a",
       "spritesheet.webp": "ecd5a1b50f22e44ca3e0adb88482ec63f9a8ff70f19c7f4db2c43e970f4febf1"
     },
     "package": "packages/guilmon.zip",
