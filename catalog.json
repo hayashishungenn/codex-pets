@@ -100,5 +100,37 @@
       "spritesheet.webp": "fca8b2e760dcd7a693e3ba99bee2d1d3be0329389ffb64bf78247781e21460be"
     },
     "package": "packages/hikawa-sayo.zip"
+  },
+  {
+    "id": "agumon-adventure",
+    "name": "亚古兽（一代）",
+    "spriteVersionNumber": 2,
+    "size": [
+      1536,
+      2288
+    ],
+    "sha256": {
+      "pet.json": "38dd5ce7ab620dff069c2a36f57418958da896c7e74e5eab793b47d2d5944b81",
+      "spritesheet.webp": "31ce6bec23cad9e3a547c63ff91efa83ad741e7716f10b7cd7b8724b2ff2cc15"
+    },
+    "package": "packages/agumon-adventure.zip",
+    "websiteId": "agumon-adventure-anime",
+    "websiteUrl": "https://codex-pets.net/#/pets/agumon-adventure-anime"
+  },
+  {
+    "id": "agumon-savers",
+    "name": "亚古兽（五代）",
+    "spriteVersionNumber": 2,
+    "size": [
+      1536,
+      2288
+    ],
+    "sha256": {
+      "pet.json": "d644b41e1e4c72c44fcd0961c636d3480ea34e43cd98b8c8d1ad927909ba82a7",
+      "spritesheet.webp": "0f34a13814107afbc7ac6061a0a40f65b1a046a86a2b10b89313304dd826c027"
+    },
+    "package": "packages/agumon-savers.zip",
+    "websiteId": "agumon-savers-anime",
+    "websiteUrl": "https://codex-pets.net/#/pets/agumon-savers-anime"
   }
 ]

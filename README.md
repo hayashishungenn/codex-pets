@@ -11,6 +11,8 @@
 | 基尔兽 (`guilmon`) | ![基尔兽](previews/guilmon/idle.png) | [下载 ZIP](packages/guilmon.zip) |
 | 大笑奶龙 (`happynailong`) | ![大笑奶龙](previews/happynailong/idle.png) | [下载 ZIP](packages/happynailong.zip) |
 | 冰川纱夜 (`hikawa-sayo`) | ![冰川纱夜](previews/hikawa-sayo/idle.png) | [下载 ZIP](packages/hikawa-sayo.zip) |
+| 亚古兽（一代） (`agumon-adventure`) | ![亚古兽（一代）](previews/agumon-adventure/idle.png) | [下载 ZIP](packages/agumon-adventure.zip) |
+| 亚古兽（五代） (`agumon-savers`) | ![亚古兽（五代）](previews/agumon-savers/idle.png) | [下载 ZIP](packages/agumon-savers.zip) |
 
 ## 安装
 
@@ -20,6 +22,6 @@
 
 `pets/` 存放可直接安装的文件，`packages/` 存放逐只安装包，`previews/` 存放预览，`catalog.json` 记录版本、尺寸与 SHA-256。基尔兽与加奥兽按已确认的动画形象修正，动作采用数码宝贝自身的身体结构和神态，行走槽不挥手。其他宠物保持本地安装内容。
 
-网站版本使用中文显示名，数码宝贝的网站 ID 统一带 `-anime`：[基尔兽](https://codex-pets.net/#/pets/guilmon-anime)、[加奥兽](https://codex-pets.net/#/pets/gaomon-anime)。本仓库与本地安装目录保留原 ID，避免重复安装。
+网站版本使用中文显示名，数码宝贝的网站 ID 统一带 `-anime`：[基尔兽](https://codex-pets.net/#/pets/guilmon-anime)、[加奥兽](https://codex-pets.net/#/pets/gaomon-anime)、[亚古兽（一代）](https://codex-pets.net/#/pets/agumon-adventure-anime)、[亚古兽（五代）](https://codex-pets.net/#/pets/agumon-savers-anime)。本仓库与本地安装目录保留原 ID，避免重复安装。
 
 角色及第三方宠物素材的权利属于各自权利人。本合集不另行授予这些素材的版权许可。
