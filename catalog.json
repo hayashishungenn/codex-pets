@@ -14,20 +14,6 @@
     "package": "packages/ayumu-uehara.zip"
   },
   {
-    "id": "feibi",
-    "name": "菲比",
-    "spriteVersionNumber": 2,
-    "size": [
-      1536,
-      2288
-    ],
-    "sha256": {
-      "pet.json": "c850a518d4d0cfdbd4ecff2e142012f5eff801a03d63f6a74199f4852861bfdb",
-      "spritesheet.webp": "86add94d722422e930a24b5584cf15cfedfa6a03d7dca924c7a3a0120999556d"
-    },
-    "package": "packages/feibi.zip"
-  },
-  {
     "id": "gaomon",
     "name": "加奥兽",
     "spriteVersionNumber": 2,
@@ -44,20 +30,6 @@
     "websiteUrl": "https://codex-pets.net/#/pets/gaomon-anime"
   },
   {
-    "id": "guga",
-    "name": "咕嘎",
-    "spriteVersionNumber": 2,
-    "size": [
-      1536,
-      2288
-    ],
-    "sha256": {
-      "pet.json": "088718696fef50deadca2940b835fdf231a76ef1161ef44dbc20ffc21797a9cc",
-      "spritesheet.webp": "962b0e64809c6d0c10ad479a388b4745b42743c8c64efbff10888a7cef13e102"
-    },
-    "package": "packages/guga.zip"
-  },
-  {
     "id": "guilmon",
     "name": "基尔兽",
     "spriteVersionNumber": 2,
@@ -72,20 +44,6 @@
     "package": "packages/guilmon.zip",
     "websiteId": "guilmon-anime",
     "websiteUrl": "https://codex-pets.net/#/pets/guilmon-anime"
-  },
-  {
-    "id": "happynailong",
-    "name": "大笑奶龙",
-    "spriteVersionNumber": 1,
-    "size": [
-      1536,
-      1872
-    ],
-    "sha256": {
-      "pet.json": "0baf0e3c860b9f9ca69f41bc6ee62d10c59a74ac5d11174e2ab4e5bf2c1bc6cd",
-      "spritesheet.webp": "795ca7b2dcf382ab8b1e6af2db88533f9351cdda15d36b1b20a0743e535db3c7"
-    },
-    "package": "packages/happynailong.zip"
   },
   {
     "id": "hikawa-sayo",
